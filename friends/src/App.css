@@ -1,0 +1,22 @@
+*{
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+}
+
+.App {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* border: 2px solid green; */
+}
+
+.nav {
+  align-items: center;
+}
+
